@@ -1,5 +1,6 @@
 # Image2Tweet
-------------------
+
+
 
 
 Official repo for the paper 'Image2tweet: Datasets in Hindi and English for Generating Tweets from Images'
