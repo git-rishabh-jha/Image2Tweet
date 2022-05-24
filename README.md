@@ -5,7 +5,7 @@
 
 Official repo for the paper 'Image2tweet: Datasets in Hindi and English for Generating Tweets from Images'
 
-Paper Link : 
+Paper Link : https://www.researchgate.net/publication/359497106_Image2tweet_Datasets_in_Hindi_and_English_for_Generating_Tweets_from_Images
 
 Dataset is available at : https://competitions.codalab.org/competitions/35702
 
